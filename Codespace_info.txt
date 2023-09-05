@@ -1,0 +1,3 @@
+5.4.0-1100-azures
+Debian GNU/Linux 11
+30G
